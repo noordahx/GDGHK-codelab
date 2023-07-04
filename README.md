@@ -1,4 +1,4 @@
-# codelab_first_app
+# GDG Hong Kong: Codelab flutter app
 
 A new Flutter project.
 
